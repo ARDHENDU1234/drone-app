@@ -112,7 +112,8 @@ const Home = () => {
         style={{
           backgroundImage: 'url("/imgs/drone4.png")',
           backgroundRepeat: 'no-repeat',
-          backgroundSize: 'cover',          
+          backgroundSize: 'cover',     
+          backgroundPosition:'center'     
         }}
           className="w-full h-full pt-[5vw] flex flex-col justify-center items-center"
           alt="home"
